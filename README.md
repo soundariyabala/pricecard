@@ -1,0 +1,1 @@
+This is react day 2 task . created a PriceCard dynamically.
